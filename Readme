@@ -1,0 +1,10 @@
+#Name: Kshitij Raj
+#UFID: 13584965
+
+1] Extract the files in a folder on the Desktop.
+2] Open the terminal and run shell script. -> sudo run shell.sh
+3] It will show device is not registered/connected.
+4] Now connect the keyboard and select the device: Virtual Box-> Devices->USB-> "keyboard".
+5] Now run the shell script and now it will show the keyboard connected.
+6] Now test the two modes.
+
