@@ -1,29 +1,4 @@
-  /*
- 2  *  Copyright (c) 1999-2001 Vojtech Pavlik
- 3  *
- 4  *  USB HIDBP Keyboard support
- 5  */
-  
-  /*
- 8  * This program is free software; you can redistribute it and/or modify
- 9  * it under the terms of the GNU General Public License as published by
-10  * the Free Software Foundation; either version 2 of the License, or
-11  * (at your option) any later version.
-12  *
-13  * This program is distributed in the hope that it will be useful,
-14  * but WITHOUT ANY WARRANTY; without even the implied warranty of
-15  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-16  * GNU General Public License for more details.
-17  *
-18  * You should have received a copy of the GNU General Public License
-19  * along with this program; if not, write to the Free Software
-20  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
-21  *
-22  * Should you need to contact me, the author, you can do so either by
-23  * e-mail - mail your message to <vojtech@ucw.cz>, or by paper mail:
-24  * Vojtech Pavlik, Simunkova 1594, Prague 8, 182 00 Czech Republic
-25  */
- 
+
  #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt
  
  #include <linux/kernel.h>
